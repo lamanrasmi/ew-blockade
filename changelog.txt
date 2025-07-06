@@ -1,0 +1,8 @@
+Version 1.1.0 - 2023-01-20
+- Added IPAPI.co as default IP country detection service with 1000/day free tier
+- Consolidated caching settings into 'Caching Method' dropdown (options: No Caching/File JSON/Database)
+- Removed deprecated 'Enable JSON Caching' checkbox
+- Added usage limits descriptions for all IP providers
+
+Version 1.0.0 - 2022-10-05
+- Initial plugin release
